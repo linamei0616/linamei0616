@@ -1,5 +1,7 @@
 Hello!
+
 I am a first-year Computer Science undergraduate student at the University of Illinois Urbana-Champaign. I'm always looking for new opportunities, internships and programs that will improve my technical skills in software development. I love to constantly acquire new experience and knowledge!
+
 I am familiarized with C++, Kotlin, some Javascript, React, Git/Github, Dockers, and Node.js.
 
 <!--
