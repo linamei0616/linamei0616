@@ -1,9 +1,46 @@
-Hello! 
+<!-- Introduction -->
+## Hello, I'm Lina!
 
-I am a first-year Computer Science undergraduate student at the University of Illinois Urbana-Champaign. I am currently interested in new opportunities, internships and programs that will improve my technical skills in software development!
+I am a rising Sophomore pursuing Computer Science at the University of Illinois Urbana-Champaign. I am currently interested in new opportunities, internships and programs that will improve my technical skills in software development!
 
-I am familiarized with C++, Kotlin, React, Git/Github, Dockers, and Node.js.
 
+<!-- Skills -->
+#### Languages I use:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+#### Technologies I use:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+<!-- Work In Progress -->
+#### What I am spending my time on: ###
+`📊 Completing a web development course from` <code><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></code>
+
+`💻 Building a personal website`
+
+`📚 Taking Physics 235 (Mechanics & Wave Motion)`
+
+<!-- Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=linamei0616&theme=highcontrast&show_icons=true&count_private=true)
+-->
+
+<!-- Socials -->
+#### I would love to connect!
+<a href="https://www.linkedin.com/in/linamei0616/">
+  <img align="left" alt="Lina's LinkedIn" width="30px" src="https://img.icons8.com/doodle/48/undefined/linkedin--v2.png"/>
+</a>
+<a href="mailto:linamei0616@gmail.com">
+  <img align="left" alt="Lina's Email" width="30px" src="https://img.icons8.com/doodle/48/undefined/newsletter.png"/>
+</a>
 <!--
 **linam616/linam616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
