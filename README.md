@@ -23,7 +23,7 @@
 
 <!-- Work In Progress -->
 #### What I am spending my time on: ###
-`📊 IOS Development at ECCChicago></code>
+`📊 IOS Development at ECCChicago`</code>
 
 `💻 Building a personal website`
 
