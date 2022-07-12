@@ -23,7 +23,7 @@
 
 <!-- Work In Progress -->
 #### What I am spending my time on: ###
-`📊 Completing a web development course from` <code><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></code>
+`📊 IOS Development at ECCChicago></code>
 
 `💻 Building a personal website`
 
