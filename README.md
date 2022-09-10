@@ -27,7 +27,7 @@
 
 `💻 Building a personal website`
 
-`📚 Taking Physics 235 (Mechanics & Wave Motion)`
+`📚 Classes`
 
 <!-- Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=linamei0616&theme=highcontrast&show_icons=true&count_private=true)
