@@ -23,7 +23,7 @@
 
 <!-- Work In Progress -->
 #### What I am spending my time on: ###
-`📊 Working on my app (check it out in my repositories 👀`</code>
+`📊 Working on my app (check it out in my repositories 👀)`</code>
 
 `💻 Building a personal website`
 
