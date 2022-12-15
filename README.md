@@ -1,7 +1,7 @@
 <!-- Introduction -->
 ## Hello, I'm Lina!
 
-<img height="15" src="https://campusrec.illinois.edu/wp-content/uploads/2017/08/block-I-icon-512x512.png"> am a rising Sophomore pursuing Computer Science at the University of Illinois Urbana-Champaign. I am always interested in new opportunities, internships and programs that will improve my technical skills in software development!
+<img height="15" src="https://campusrec.illinois.edu/wp-content/uploads/2017/08/block-I-icon-512x512.png"> am a Sophomore pursuing Computer Science at the University of Illinois Urbana-Champaign. I am always interested in new opportunities, internships and programs that will improve my technical skills in software development!
 
 
 <!-- Skills -->
@@ -23,7 +23,7 @@
 
 <!-- Work In Progress -->
 #### What I am spending my time on: ###
-`📊 IOS Development at ECCChicago`</code>
+`📊 Working on my app (check it out in my repositories 👀`</code>
 
 `💻 Building a personal website`
 
