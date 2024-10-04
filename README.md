@@ -25,8 +25,6 @@
 
 <!-- Work In Progress -->
 #### What I am spending my time on: ###
-`📊 Working on my app (pinned repository)`</code>
-
 `💻 Building a personal website`
 
 `📚 Classes`
